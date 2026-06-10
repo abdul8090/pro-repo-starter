@@ -1,12 +1,12 @@
-# Fiverr Gig Content — WordPress Website Building Service
+# Fiverr Gig Content - WordPress Website Building Service
 
 ---
 
 ## GIG TITLE (80 characters max)
 
-**Option 1:** I will build a professional wordpress website or business website
-**Option 2:** I will design a responsive wordpress website that gets results
-**Option 3:** I will create a complete wordpress website with premium design
+**Option 1:** I will build a professional wordpress website or wordpress blog
+**Option 2:** I will design a responsive website and modern wordpress website
+**Option 3:** I will convert figma to wordpress or revamp wordpress website
 
 ---
 
@@ -22,10 +22,10 @@
 ## SEARCH TAGS (5 tags)
 
 1. wordpress website
-2. wordpress developer
-3. business website
-4. responsive website
-5. wordpress design
+2. wordpress blog
+3. responsive website
+4. revamp website
+5. figma to wordpress
 
 ---
 
@@ -54,25 +54,25 @@
 
 ### What to type in each Fiverr field:
 
-**BASIC — "Starter Site" — $60**
+**BASIC - "Starter Site" - $60**
 > Theme setup, up to 3 pages, contact form, mobile responsive
 
-**STANDARD — "Business Site" — $120**
-> Custom theme, 7 pages, Elementor, blog, SEO, speed and security optimized
+**STANDARD - "Business Site" - $120**
+> Custom theme, 7 pages, Elementor, wordpress blog, SEO, speed and security optimized
 
-**PREMIUM — "Complete Site" — $250**
-> Full custom site, 15 pages, WooCommerce, SEO, analytics, email, launch-ready
+**PREMIUM - "Complete Site" - $250**
+> Full custom site, 15 pages, WooCommerce, revamp website or figma to wordpress, launch-ready
 
 ---
 
 ## GIG DESCRIPTION (1200 character limit - copy below)
 
-> **Character count: ~1,050 / 1,200**
+> **Character count: ~1,160 / 1,200**
 
-```
+```text
 Looking for a professional WordPress website that looks great and works perfectly? You are in the right place!
 
-I will build a complete, modern WordPress website - business site, blog, portfolio, landing page, or online store.
+I will build a complete, modern WordPress website, WordPress blog, portfolio, landing page, or online store. I can also revamp website layouts or convert Figma to WordPress with a clean responsive website design.
 
 What You Get:
 - Clean, modern, mobile-friendly design
@@ -86,11 +86,13 @@ What You Get:
 
 Website Types I Build:
 - Business and corporate websites
-- Blogs and personal websites
+- WordPress blog and personal websites
 - Portfolio and agency sites
 - Landing pages and sales funnels
 - eCommerce stores (WooCommerce)
 - Membership and booking sites
+- Figma to WordPress business websites
+- Website redesign and revamp website projects
 
 Plugins I Set Up:
 - Elementor / WPBakery (page builder)
@@ -124,7 +126,7 @@ Ready to get started? Order now or message me for a custom offer!
 **A:** Yes! I use premium-quality themes optimized for your niche. If you have a specific theme in mind, I can use that instead.
 
 ### Q: Will my website be mobile friendly?
-**A:** Yes, 100%. Every website I build is fully responsive and looks great on phones, tablets, and desktops.
+**A:** Yes, 100%. Every website I build is a fully responsive website that looks great on phones, tablets, and desktops.
 
 ### Q: Can you build an eCommerce store?
 **A:** Yes! I set up WooCommerce with product pages, cart, checkout, payment gateways, and shipping. Included in the Premium package.
@@ -137,6 +139,12 @@ Ready to get started? Order now or message me for a custom offer!
 
 ### Q: Will you teach me how to update the website?
 **A:** Yes! I provide a walkthrough so you can update content, add pages, write blog posts, and manage everything yourself.
+
+### Q: Can you redesign or revamp my current website?
+**A:** Yes! If you already have a site, I can revamp website pages, improve layout and speed, and modernize the full user experience in WordPress.
+
+### Q: Can you convert my Figma design to WordPress?
+**A:** Yes. I can convert Figma to WordPress and make sure the final website is responsive, editable, and aligned with your design.
 
 ### Q: Do you offer support after delivery?
 **A:** Yes, I offer after-delivery support to make sure everything works perfectly. Just reach out if you need help.
@@ -165,7 +173,7 @@ When buyers order, they will answer these:
 
 9. **Any specific plugins or features?** (Booking, membership, forms, chat widget, etc.)
 
-10. **Anything else I should know?** (Special requests, timeline, etc.)
+10. **Anything else I should know?** (Special requests, timeline, revamp website needs, or figma to wordpress details)
 
 ---
 
@@ -173,22 +181,23 @@ When buyers order, they will answer these:
 
 ### When someone messages asking about your service:
 
-```
+```text
 Hi there! Thanks for reaching out!
 
-Yes, I can build you a professional WordPress website. To give you the best recommendation, could you tell me:
+Yes, I can build you a professional WordPress website, WordPress blog, or responsive website. To give you the best recommendation, could you tell me:
 
 1. What type of website do you need? (business, blog, portfolio, store)
 2. Do you have hosting and domain yet?
 3. How many pages do you need?
 4. Do you have a logo and brand colors?
+5. Is this a new site, a revamp website project, or a Figma to WordPress conversion?
 
 Looking forward to working with you!
 ```
 
 ### After delivering the order:
 
-```
+```text
 Hi! Your WordPress website is now complete and ready to go live!
 
 Here is what was done:
